@@ -3,7 +3,7 @@
 
 
 <p align='center'>
-  ✅✅ I live 🏠 in <b>Agadir, Morocco📍</b>  and studies at <b><a href="https://youcode.ma">YouCode School 🏫</a></b> as a <b>Full Stack Developer <b> ✅✅
+  <p align="center">My passion and love for programming in general brought me to Youcode,<br> and I'm currently continuing my programming journey aiming to be a  <strong>Fullstack</strong> developer.</p>
 
   <h4 align='center'>📇📇 Contact me 📇📇</h4>
 </p>
