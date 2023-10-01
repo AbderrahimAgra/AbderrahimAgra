@@ -9,7 +9,7 @@
 </p>
 <p align="center">
     <a href="https://github.com/AbderrahimAgra"><img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github"></a>
-    <a href="https://www.linkedin.com/in/abderrahim-agra-650320199/"><img src="https://img.shields.io/badge/-linkedin-darkblue?style=for-the-badge&logo=linkedin"></a>
+    <a href="https://www.linkedin.com/in/agraabderrahim/"><img src="https://img.shields.io/badge/-linkedin-darkblue?style=for-the-badge&logo=linkedin"></a>
 <!--     <a href="https://www.instagram.com/abderagra/?hl=fr"><img src="https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white"></a> -->
 <!--     <a href="https://www.facebook.com/abderahim.agra"><img src="https://img.shields.io/badge/-facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"></a> -->
     <a href="tel:+212678204618"><img src="https://img.shields.io/badge/+212678204618-black?style=for-the-badge&logo=whatsapp&logoColor=green"></a>
